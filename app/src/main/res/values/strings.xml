@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">FocusMate</string>
+
+    <!-- Navigation -->
+    <string name="nav_timer">Timer</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Session Types -->
+    <string name="session_focus">Focus</string>
+    <string name="session_short_break">Short Break</string>
+    <string name="session_long_break">Long Break</string>
+
+    <!-- Timer Screen -->
+    <string name="timer_start">Start</string>
+    <string name="timer_resume">Resume</string>
+    <string name="timer_pause">Pause</string>
+    <string name="timer_reset">Reset</string>
+    <string name="timer_skip">Skip to next</string>
+    <string name="timer_zen_enter">Enter distraction-free mode</string>
+    <string name="timer_zen_exit">Exit distraction-free mode</string>
+    <string name="timer_customize_duration">Customize duration</string>
+    <string name="timer_status_ready">Ready to focus</string>
+    <string name="timer_status_focusing">Deep focus active</string>
+    <string name="timer_status_break">Take a breather</string>
+    <string name="timer_status_paused">Paused</string>
+    <string name="daily_goal_progress_format">%1$d / %2$d sessions</string>
+    <string name="cycle_progress_format">Round %1$d of %2$d</string>
+    <string name="session_tag_label">Session tag</string>
+    <string name="custom_duration_title">Custom Duration</string>
+    <string name="minutes_unit">%1$d min</string>
+    <string name="apply_button">Apply</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_timer_name">Active Timer</string>
+    <string name="notif_channel_timer_desc">Ongoing countdown progress for active focus and break sessions</string>
+    <string name="notif_channel_alert_name">Session Alerts</string>
+    <string name="notif_channel_alert_desc">Alerts when a Pomodoro focus or break session finishes</string>
+    <string name="notif_action_pause">Pause</string>
+    <string name="notif_action_resume">Resume</string>
+    <string name="notif_action_reset">Reset</string>
+    <string name="notif_focus_complete_title">Focus session complete</string>
+    <string name="notif_focus_complete_body">Great work! Ready for your break.</string>
+    <string name="notif_break_complete_title">Break complete</string>
+    <string name="notif_break_complete_body">Time to get back into focus.</string>
+    <string name="notif_permission_title">Enable Timer Notifications</string>
+    <string name="notif_permission_body">Allow notifications so FocusMate can show live countdown progress and alert you when sessions end in the background.</string>
+    <string name="notif_permission_action">Allow</string>
+
+    <!-- Stats & History Screen -->
+    <string name="stats_title">Productivity</string>
+    <string name="stats_today_focus">Today\'s Focus</string>
+    <string name="stats_daily_goal">Daily Goal</string>
+    <string name="stats_streak">Focus Streak</string>
+    <string name="stats_weekly_chart">Last 7 Days (minutes)</string>
+    <string name="stats_history_title">Session History</string>
+    <string name="stats_clear_history">Clear all</string>
+    <string name="stats_clear_dialog_title">Clear session history?</string>
+    <string name="stats_clear_dialog_body">This will permanently remove all recorded focus and break sessions from this device.</string>
+    <string name="stats_empty_title">No sessions recorded yet</string>
+    <string name="stats_empty_subtitle">Start your first Pomodoro timer to track daily focus minutes, goals, and session history.</string>
+    <string name="delete_session_cd">Delete session</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_durations">Timer Durations</string>
+    <string name="settings_focus_duration">Focus session</string>
+    <string name="settings_short_break_duration">Short break</string>
+    <string name="settings_long_break_duration">Long break</string>
+    <string name="settings_long_break_interval">Sessions before long break</string>
+    <string name="settings_section_goals">Daily Focus Goal</string>
+    <string name="settings_daily_goal_sessions">Target sessions per day</string>
+    <string name="settings_section_automation">Flow &amp; Screen</string>
+    <string name="settings_auto_start_breaks">Auto-start breaks</string>
+    <string name="settings_auto_start_focus">Auto-start focus sessions</string>
+    <string name="settings_keep_screen_on">Keep screen awake while running</string>
+    <string name="settings_section_alerts">Sound &amp; Vibration</string>
+    <string name="settings_sound_enabled">Completion chime</string>
+    <string name="settings_vibration_enabled">Vibration alert</string>
+    <string name="settings_test_alert">Test alert</string>
+    <string name="settings_section_appearance">Appearance</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="settings_offline_note">100% offline &amp; private · All data stays on your device</string>
+</resources>

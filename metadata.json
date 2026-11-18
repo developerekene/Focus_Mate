@@ -1,0 +1,6 @@
+{
+  "name": "FocusMate",
+  "description": "Minimalist Pomodoro & productivity timer with custom sessions, daily focus goals, background timer notifications, and local session statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
